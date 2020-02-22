@@ -3,4 +3,13 @@
   <groupId>com.dilu</groupId>
   <artifactId>TestGithub01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>5.4.12.Final</version>
+</dependency>
+  
+  </dependencies>
 </project>
